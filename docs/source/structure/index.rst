@@ -29,6 +29,5 @@ Process Design Kit (PDK) is a tool for designated users to generate circuit layo
 
 * ``layers.lyp`` : This file allows layout tools e.g. Klayout to recognize the layer information when displaying gds file to the layout tool.
 
-    .. image:: ../images/lyp1.png
-    .. image:: ../images/lyp2.png
+    .. image:: ../images/lyp.png
 
