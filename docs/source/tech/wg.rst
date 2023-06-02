@@ -31,7 +31,7 @@ There are two different waveguides in IMECAS pdk, which are defined as follows:
         * CLD_WIDTH = 8.58 um
         * TCH_WIDTH = 4 um
 
-    .. image:: ../images/rib.png
+    .. image:: ../images/rib_sefe.png
 
     #. ``Rib.C_SEFE``
 
@@ -39,5 +39,5 @@ There are two different waveguides in IMECAS pdk, which are defined as follows:
         * CLD_WIDTH = 5 um / 4.45 um
 
 
-    .. image:: ../images/rib_sefe.png
 
+    .. image:: ../images/rib.png
